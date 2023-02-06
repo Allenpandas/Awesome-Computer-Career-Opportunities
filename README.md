@@ -41,15 +41,10 @@
 ### 北京市高校就业信息网
 
 - [清华大学学生职业发展指导中心](https://career.tsinghua.edu.cn/)
-
 - [北京航空航天大学就业咨询网](https://career.buaa.edu.cn/)
-
 - [北京理工大学就业咨询网](http://job.bit.edu.cn/)
-
 - [北京交通大学就业咨询网](http://job.njtu.edu.cn/frontpage/bjtu/html/index.html)
-
 - [北京邮电大学就业信息网](https://job.bupt.edu.cn/frontpage/bupt/html/index.html)
-
 - [北京科技大学学生就业指导中心](https://job.ustb.edu.cn/)
 
   
