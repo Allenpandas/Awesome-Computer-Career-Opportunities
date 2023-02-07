@@ -56,5 +56,4 @@
 - [北京研究院招聘](http://zhiwei.yingjiesheng.com/yanjiuyuan/beijing/)：
 - [北京市应届生事业单位招聘](http://zhiwei.yingjiesheng.com/shiyedanwei/beijing/)  ：
 - [人社部事业单位招聘平台](http://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/)：质量一般，对口的岗位很少，需要精心挑选。
-- [硕博英才网](http://www.shuobojob.cn/sydw/bj/)：
-
+- [硕博英才网](http://www.shuobojob.cn/sydw/bj/)：收录了高校高层次人才招聘、教师招聘、学科带头人等招聘信息，是海内外博士、硕士等高层次人才求职查询平台。
