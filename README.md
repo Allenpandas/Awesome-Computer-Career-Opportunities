@@ -2,7 +2,15 @@
 
 人工智能、软件工程、计算机科学与技术、网络空间安全、信息安全等专业找工作用的招聘工具（最后更新时间：2023.2.7）
 
+## 目录
 
+- [意向岗位](#意向岗位)
+- [信息来源](#信息来源)
+  - [企业校招官网](#企业校招官网)
+  - [高校就业信息网](#高校就业信息网)
+  - [社会公开网站](#社会公开网站)
+
+## 意向岗位
 
 - [中国工业互联网研究院](http://www.shiyebian.net/xinxi/380762.html)：
   - **安全所—技术研究岗：** 博士，中共党员+英语六级；
@@ -38,9 +46,10 @@
   - 并行软件与计算科学实验室：
 - 
 
-## 招聘信息来源
+## 信息来源
+### 企业校招官网
 
-### 部分企业校园招聘官网
+注：排名不分先后~
 
 - [京东集团-校园招聘](http://campus.jd.com/)
 - [字节跳动-校园招聘](https://jobs.bytedance.com/)
@@ -71,7 +80,7 @@
 
 
 
-### 北京市高校就业信息网
+### 高校就业信息网
 
 - [清华大学学生职业发展指导中心](https://career.tsinghua.edu.cn/)
 - [北京航空航天大学就业咨询网](https://career.buaa.edu.cn/)
@@ -86,8 +95,8 @@
 
 - [北京市事业单位招聘考试网](http://www.shiyebian.net/beijing/index.html)：质量一般，对口的岗位不多，需要精心挑选。
 - [工信部所属单位公开招聘平台](http://www.gxbzhp.org.cn/)：质量较高，对口的岗位较多。
-- [北京研究所招聘](http://zhiwei.yingjiesheng.com/yanjiusuo/beijing/)  ：
-- [北京研究院招聘](http://zhiwei.yingjiesheng.com/yanjiuyuan/beijing/)：
-- [北京市应届生事业单位招聘](http://zhiwei.yingjiesheng.com/shiyedanwei/beijing/)  ：
 - [人社部事业单位招聘平台](http://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/)：质量一般，对口的岗位很少，需要精心挑选。
 - [硕博英才网](http://www.shuobojob.cn/sydw/bj/)：收录了高校高层次人才招聘、教师招聘、学科带头人等招聘信息，是海内外博士、硕士等高层次人才求职查询平台。
+- [北京研究所招聘](http://zhiwei.yingjiesheng.com/yanjiusuo/beijing/)  
+- [北京研究院招聘](http://zhiwei.yingjiesheng.com/yanjiuyuan/beijing/)
+- [北京市应届生事业单位招聘](http://zhiwei.yingjiesheng.com/shiyedanwei/beijing/)  
