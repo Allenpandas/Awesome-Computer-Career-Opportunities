@@ -1,6 +1,6 @@
-# Awesome-Artificial-Intelligence-Recruitment-Information
+# Awesome-Artificial-Intelligence-Jobs-Toolkit
 
-人工智能、软件工程、计算机科学与技术、网络空间安全、信息安全等专业找工作用的招聘工具（最后更新时间：2023.2.7）
+This repository provides recruitment information for artificial intelligence, software engineering, computer science and technology, cyberspace security, information security and other majors. | 本仓库提供人工智能、软件工程、计算机科学与技术、网络空间安全、信息安全等专业的招聘信息。（最后更新时间：2023.6.27）
 
 ## 目录
 
