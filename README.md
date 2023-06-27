@@ -1,4 +1,4 @@
-# AI-Job-Toolkit
+# Awesome-Artificial-Intelligence-Recruitment-Information
 
 人工智能、软件工程、计算机科学与技术、网络空间安全、信息安全等专业找工作用的招聘工具（最后更新时间：2023.2.7）
 
