@@ -35,7 +35,7 @@
 
 **J：**
 
-- [京东集团-校园招聘](http://campus.jd.com/)
+- [京东集团-校园招聘](http://campus.jd.com/)（含：京东集团、京东物流、京东健康、京东零售、京东科技）
 
 **K：**
 
@@ -68,7 +68,7 @@
 
 - [小红书-校园招聘](https://job.xiaohongshu.com/campus)
 - [小米-校园招聘](https://hr.xiaomi.com/)
-- [新浪&微博-校园招聘](https://career.sina.com.cn/)
+- [新浪&微博-校园招聘](https://career.sina.com.cn/)（含：微博、新浪财经、新浪新闻）
 - [携程集团-校园招聘](https://job.ctrip.com/index.html#/)
 
 **Y：**
@@ -77,11 +77,11 @@
 
 **Z：**
 
-- [中国联通-校园招聘](http://chinaunicom.zhaopin.com/)
+- [中国联通-校园招聘](http://chinaunicom.zhaopin.com/)（含：集团总部、各省市自治区分公司、联通研究院、联通软件研究院、联通智能城市研究院、联通数字科技有限公司等）
 - [中国移动-校园招聘](https://job.10086.cn/)
 - [中国电信-校园招聘](http://www.chinatelecom.com.cn/zp/)
 - [字节跳动-校园招聘](https://jobs.bytedance.com/)
-- [中国航天人才网](https://www.spacetalent.com.cn/zhiweicx.html)
+- [中国航天人才网](https://www.spacetalent.com.cn/zhiweicx.html)（含：航天1院、航天4院、航天5院、航天6院、航天7院、航天8院、航天9院、航天11院、航天科技创新研究院等）
 
 ### 2.京内高校就业信息网
 
