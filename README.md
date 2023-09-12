@@ -2,7 +2,9 @@
 
 ## Introduction
 
-本仓库提供计算机相关专业（计算机科学与技术、计算机技术、人工智能、软件工程、网络空间安全、网络与信息安全等）的求职信息，包括但不限于：博士申请、实习内推、博后招募等。
+This is a repository dedicated to aggregating job opportunities for professionals in computer-related fields. Whether you are seeking postdoc positions, internship referrals, or information on doctoral applications, we provide you with the most comprehensive and up-to-date resources. It is our hope that through this repository, we can assist job seekers in the vast field of computer science in finding their ideal career opportunities and advancing their professional development.
+
+这是一个面向计算机相关专业人员的求职信息聚合仓库。无论您是寻找博士后机会、实习内推机会还是博士申请相关信息，我们都为您提供了最全面和及时的资源。希望通过这个仓库，能够帮助广大计算机领域的求职者更轻松地找到理想的职业机会，推动您的职业发展。
 
 ## Contents
 
