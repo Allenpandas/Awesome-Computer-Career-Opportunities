@@ -1,4 +1,4 @@
-# Awesome-CS-JobSearch-Toolkit
+# Awesome-Computer-Career-Opportunities
 
 ## Introduction
 
@@ -8,10 +8,10 @@ This is a repository dedicated to aggregating job opportunities for professional
 
 ## Contents
 
-1. 2024年校园招聘信息：[2024校园招聘](./校园招聘2024.md)
-2. 博士申请： [博士申请](./1-博士申请.md)
-3. 实习内推： [实习内推](./2-实习内推.md)
-4. 博后申请： [博后招募](./3-博后招募.md)
+1. **2024年校园招聘：** [2024校园招聘](./0-校园招聘2024.md)
+2. **博士申请：** [博士申请](./1-博士申请.md)
+3. **实习内推：** [实习内推](./2-实习内推.md)
+4. **博后申请：** [博后招募](./3-博后招募.md)
 
 
 
